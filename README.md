@@ -64,6 +64,8 @@ The primary objective is to analyze churn patterns and identify the root causes 
 
 
 ### Demographics   
+<img width="1181" height="538" alt="17571608814783111970586015963255" src="https://github.com/user-attachments/assets/afbea5fe-cb0f-44cc-a1a4-d36a846b10be" />
+
 
 
 
