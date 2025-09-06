@@ -60,6 +60,7 @@ The primary objective is to analyze churn patterns and identify the root causes 
 
 
 ## 📷 Dashboard Preview    
+<img width="1186" height="537" alt="17571608101205535010024515975680" src="https://github.com/user-attachments/assets/46a1fd91-c5bf-4ae6-accc-aca150c56bca" />
 
 
 ### Demographics   
